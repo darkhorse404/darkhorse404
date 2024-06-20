@@ -1,5 +1,5 @@
-<img align="center" width="100%" src="https://github.com/darkhorse404/darkhorse404/blob/main/assets/header.jpg"/>
-<br/>
+<img align="center" width="100%" src="https://github.com/darkhorse404/darkhorse404/blob/main/assets/helloworld.jpg"/>
+
 <div align="center">
   
 # 👋 Hey everyone, I’m Priyobrata aka [@darkhorse404](https://github.com/darkhorse404)
@@ -13,14 +13,14 @@
   
 </div>
 
-  <img align="right" src="https://github.com/darkhorse404/darkhorse404/blob/main/assets/cat.gif"/>
+  <img align="right" margin-right="20px" src="https://github.com/darkhorse404/darkhorse404/blob/main/assets/cat.gif"/>
   
 - 👤 A CSE Sophomore from Kolkata, learning and exploring everyday. Passionate about code. Studies almost everything except the course curriculum. Participates actively in various events, workshops and competitions. Follows hobbies in free-time.
 - 👀 I’m interested in Web Development, Machine Learning, Web 3.0 and DSA.
 - 🔭 I’m currently working on Web 3.0 projects wrapped up in Full Stack Development technologies.
 - 💞️ I’m looking to collaborate on unique projects, or team up in a Hackathon.
 - 🤝 I’m looking for part-time opportunities.
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning everything.
 
 
 <br/>
@@ -61,10 +61,9 @@
 # <samp>📊 GitHub Stats :</samp>
 
 <div align="center"> 
-  
-![](https://github-readme-stats.vercel.app/api?username=darkhorse404&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=darkhorse404&theme=radical&hide_border=true)
-<!---![](https://github-readme-stats.vercel.app/api/top-langs/?username=darkhorse404&theme=highcontrast&hide_border=true&include_all_commits=false&count_private=false&layout=compact)--->
+
+| <img src="https://github-readme-stats.vercel.app/api?username=darkhorse404&theme=radical&hide_border=true&include_all_commits=false&count_private=false&show_icons=true" /> <br/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=darkhorse404&theme=radical&hide_border=true" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darkhorse404&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=pie" /> |
+| ------------- | ------------- |
 
 </div>
 
