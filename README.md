@@ -1,28 +1,31 @@
-![](https://github.com/darkhorse404/darkhorse404/assets/header.jpeg)
-
+<img align="center" width="100%" src="https://github.com/darkhorse404/darkhorse404/blob/main/assets/header.jpg"/>
+<br/>
 <div align="center">
   
 # 👋 Hey everyone, I’m Priyobrata aka [@darkhorse404](https://github.com/darkhorse404)
 ###  <samp>A FullStack Developer  |  ML & Web 3.0 Enthusiast  |  Aspiring Competitive Programmer</samp>
 
 </div>
-
+<br/>
 <div align="right"> 
   
   [![](https://visitcount.itsvg.in/api?id=darkhorse404&icon=7&color=5)](https://visitcount.itsvg.in) 
   
 </div>
 
+  <img align="right" src="https://github.com/darkhorse404/darkhorse404/blob/main/assets/cat.gif"/>
+  
 - 👤 A CSE Sophomore from Kolkata, learning and exploring everyday. Passionate about code. Studies almost everything except the course curriculum. Participates actively in various events, workshops and competitions. Follows hobbies in free-time.
 - 👀 I’m interested in Web Development, Machine Learning, Web 3.0 and DSA.
 - 🔭 I’m currently working on Web 3.0 projects wrapped up in Full Stack Development technologies.
 - 💞️ I’m looking to collaborate on unique projects, or team up in a Hackathon.
 - 🤝 I’m looking for part-time opportunities.
 - 🌱 I’m currently learning everything
-  <img align="right" src="https://github.com/darkhorse404/darkhorse404/assets/cat.gif"/>
+
+
 <br/>
 
-##  <samp>📫 How to reach me :-</samp>
+##  <samp>📫 How to Reach me :-</samp>
 <!--
 <a href="mailto:priyobrata.2212@gmail.com">
   <img align="left" alt="Gmail" width="120px" src="https://img.shields.io/badge/Gmail-B23121?style=for-the-badge&logo=Gmail&logoColor=white" />
