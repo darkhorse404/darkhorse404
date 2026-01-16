@@ -1,6 +1,6 @@
 <img align="center" width="100%" src="https://github.com/darkhorse404/darkhorse404/blob/main/assets/helloworld.jpg"/>
 
-<div align="center">
+<div align="center"> 
   
 # 👋 Hey everyone, I’m Priyobrata aka [@darkhorse404](https://github.com/darkhorse404)
 ###  <samp>A FullStack Developer  |  ML & Web 3.0 Enthusiast  |  Aspiring Competitive Programmer</samp>
